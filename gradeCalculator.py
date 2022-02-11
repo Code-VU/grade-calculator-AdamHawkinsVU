@@ -18,7 +18,7 @@ def calculateGrade():
             grade = 'F'
         else:
             grade = 'Bad score'
-    except: grade = 'Bad Score'
+    except: grade = 'Bad score'
 
     print(grade)
 
@@ -28,4 +28,4 @@ def calculateGrade():
 ## uncomment calculateGrade() and run > python calculateGrade.py
 ## ***IMPORTANT*** please recomment before you submit/sync your assignment.
 ## OR YOUR TEST WILL NOT RUN
-## calculateGrade()
+##calculateGrade()
